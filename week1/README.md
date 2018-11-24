@@ -108,7 +108,7 @@ Sinon, appeler un formateur.
 
 <details>
     <summary>✔ Checkpoint</summary>
-    <img src="screenshots/week1-2.png" width="200" height="200" />
+    <img src="screenshots/week1-2.png" width="500" height="auto" />
 </details>
 
 
@@ -152,7 +152,7 @@ Sinon, appeler un formateur.
 
 <details>
   <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week1-3.png" width="200" height="200"/><br>
+  <img src="screenshots/week1-3.png" width="500" height="auto"/><br>
 </details>
 
 
@@ -187,7 +187,7 @@ Sinon, appeler un formateur.
 
 <details>
   <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week1-4.png" width="400" height="auto"/><br>
+  <img src="screenshots/week1-4.png" width="500" height="auto"/><br>
 </details>
 
 
@@ -226,7 +226,7 @@ Sinon, appelez un formateur.
 
 <details>
   <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week1-5.png" width="auto" height="800"/><br>
+  <img src="screenshots/week1-5.png" width="500" height="auto"/><br>
 </details>
 
 
@@ -248,7 +248,7 @@ Avant de passer à l'étape suivante, vérifier que le paragraphe, le bouton et 
 
 <details>
   <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week1-6.png" width="auto" height="800"/><br>
+  <img src="screenshots/week1-6.png" width="500" height="auto"/><br>
 </details>
 
 # La section "EPN"
@@ -270,7 +270,7 @@ Avant de passer à l'étape suivante, vérifier que les 3 images apparaîssent l
 Sinon, essayer de trouver la solution par vous-même avant d'appeler un formateur.
 <details>
   <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week1-7.png" width="auto" height="800"/><br>
+  <img src="screenshots/week1-7.png" width="500" height="auto"/><br>
 </details>
 
 # La section "équipe"
@@ -300,7 +300,7 @@ A la suite de la section "EPN", reproduire la même structure jusqu'à la `div` 
 Avant de passer à l'étape suivante, vérifier que les 3 images s'affichent.
 <details>
   <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week1-8.png" width="auto" height="800"/><br>
+  <img src="screenshots/week1-8.png" width="500" height="auto"/><br>
 </details>
 
 # Le pied de page
@@ -334,7 +334,7 @@ Avant de passer à l'étape suivante, vérifier que les 3 images s'affichent.
 Avant de finir la semaine 1, assurez-vous que tous vos textes s'affichent avec un fond bleu
 <details>
   <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week1-9.png" width="auto" height="800"/><br>
+  <img src="screenshots/week1-9.png" width="500" height="auto"/><br>
 </details>
 
 # Les termes à retenir
@@ -373,7 +373,7 @@ Une fois prêt(e), ajouter le favicon qui se trouve dans le dossier `img` avec l
 
 <details>
   <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week1-bonus1.png" width="300" height="auto"/><br>
+  <img src="screenshots/week1-bonus1.png" width="500" height="auto"/><br>
 </details>
 
 
@@ -383,5 +383,5 @@ Essayer de reproduire le formulaire de contact. Pour le recréer, vous aurez bes
 
 <details>
   <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week1-bonus2.png" width="300" height="auto"/><br>
+  <img src="screenshots/week1-bonus2.png" width="500" height="auto"/><br>
 </details>

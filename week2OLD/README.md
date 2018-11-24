@@ -29,12 +29,6 @@ Maintenant que vous êtes à l'aise avec l'écriture de l'HTML et que la structu
 
 Avant de passer à l'étape suivante, vérifier que les liens redirigent tous sur la section désirée.
 
-<details>
-    <summary>✔ Checkpoint</summary>
-    <img src="screenshots/week2-1.png" width="500" height="auto" />
-</details>
-
-
 # Formulaire
 
 On va finir encore un peu d'HTML cette semaine avant de commencer le CSS.
@@ -58,11 +52,6 @@ On va finir encore un peu d'HTML cette semaine avant de commencer le CSS.
 ## Vérification
 
 Avant de passer à l'étape suivante, vérifier qu'après avoir sélectionné un mois et après avoir cliqué sur `M'inscrire` que la page a été rafraîchie et que le lien a changé avec la valeur `?month=Janvier` (si vous avez sélectionné `Janvier`)
-<details>
-    <summary>✔ Checkpoint</summary>
-    <img src="screenshots/week2-2.png" width="500" height="auto" />
-</details>
-
 
 # Attention
 
@@ -177,12 +166,6 @@ Dans l'élément `section` d'id `team`
 
 Avant de passer à l'étape suivante, regarder si les images sont sur la même ligne.
 
-<details>
-    <summary>✔ Checkpoint</summary>
-    <img src="screenshots/week2-8.png" width="500" height="auto" />
-</details>
-
-
 # Structurer le pied de page
 
 Dans l'élément `footer`
@@ -192,11 +175,6 @@ Dans l'élément `footer`
 ## Vérification
 
 Avant de passer à l'étape suivante, regarder si les textes sont sur deux colonnes différentes.
-<details>
-    <summary>✔ Checkpoint</summary>
-    <img src="screenshots/week2-9.png" width="500" height="auto" />
-</details>
-
 
 # Les icônes
 
@@ -216,10 +194,6 @@ Dans l'élément `footer`
 
 Avant de finir la semaine, regarder si les icônes apparaissent.
 Sinon, appeler un formateur.
-<details>
-    <summary>✔ Checkpoint</summary>
-    <img src="screenshots/week2-10.png" width="500" height="auto" />
-</details>
 
 # Les termes à retenir
 
