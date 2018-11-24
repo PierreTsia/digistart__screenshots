@@ -85,6 +85,11 @@ Bootstrap est inclus dans la page (depuis la semaine dernière), maintenant on v
 ## Vérification
 
 Avant de passer à l'étape suivante, regardez si les éléments changés ont un fond bleu ciel.
+<details>
+    <summary>✔ Checkpoint</summary>
+    <img src="screenshots/week2-3.png" width="500" height="auto" />
+    <img src="screenshots/week2-4.png" width="500" height="auto" />
+</details>
 
 # Bootstrapiser la navigation
 
@@ -105,6 +110,11 @@ Dans l'élément `nav`
 
 Avant de passer à l'étape suivante, regarder si le titre est en gras et que les liens du menu sont espacés.
 
+<details>
+    <summary>✔ Checkpoint</summary>
+    <img src="screenshots/week2-5.png" width="500" height="auto" />
+</details>
+
 # Structurer l'entête
 
 Dans l'élément `section` avec l'id `header`
@@ -124,6 +134,12 @@ Dans l'élément `section` avec l'id `header`
 
 Avant de passer à l'étape suivante, regarder si les titres `Konexio` et `Programme Digistart` sont dans deux colonnes séparés et que le formulaire soit dans le coin droit.
 
+<details>
+    <summary>✔ Checkpoint</summary>
+    <img src="screenshots/week2-6.png" width="500" height="auto" />
+</details>
+
+
 # Structurer la section "étudiants"
 
 Dans l'élément `section` d'id `students`
@@ -141,6 +157,11 @@ Dans l'élément `section` d'id `students`
 
 Avant de passer à l'étape suivante, regarder si l'image et le texte sont dans deux colonnes différentes.
 
+<details>
+    <summary>✔ Checkpoint</summary>
+    <img src="screenshots/week2-7.png" width="500" height="auto" />
+</details>
+
 # Stucturer la section "bénévoles"
 
 Dans l'élément `section` d'id `volunteers`
@@ -153,6 +174,12 @@ Dans l'élément `section` d'id `volunteers`
 ## Vérification
 
 Avant de passer à l'étape suivante, regarder que l'image et le texte sont sur deux colonnes différentes.
+
+<details>
+    <summary>✔ Checkpoint</summary>
+    <img src="screenshots/week2-8.png" width="500" height="auto" />
+</details>
+
 
 # Structurer la galerie
 
@@ -176,11 +203,11 @@ Dans l'élément `section` d'id `team`
 ## Vérification
 
 Avant de passer à l'étape suivante, regarder si les images sont sur la même ligne.
-
 <details>
     <summary>✔ Checkpoint</summary>
-    <img src="screenshots/week2-8.png" width="500" height="auto" />
+    <img src="screenshots/week2-9.png" width="500" height="auto" />
 </details>
+
 
 
 # Structurer le pied de page
@@ -194,8 +221,9 @@ Dans l'élément `footer`
 Avant de passer à l'étape suivante, regarder si les textes sont sur deux colonnes différentes.
 <details>
     <summary>✔ Checkpoint</summary>
-    <img src="screenshots/week2-9.png" width="500" height="auto" />
+    <img src="screenshots/week2-10.png" width="500" height="auto" />
 </details>
+
 
 
 # Les icônes
@@ -221,6 +249,8 @@ Sinon, appeler un formateur.
     <img src="screenshots/week2-10.png" width="500" height="auto" />
 </details>
 
+
+
 # Les termes à retenir
 
 ## Framework
@@ -232,3 +262,10 @@ Un framework, encore appelé "structure logicielle" en français, établit les f
 # Bonus #1 : Bouton de login
 
 Ajouter un bouton de login sur la droite dans la barre de navigation. Pour y arriver, utiliser la documentation bootstrap [https://getbootstrap.com/docs/4.1/components/navbar/#forms](https://getbootstrap.com/docs/4.1/components/navbar/#forms)
+
+<details>
+    <summary>✔ Checkpoint</summary>
+    <img src="screenshots/week2-bonus1.png" width="500" height="auto" />
+</details>
+
+
