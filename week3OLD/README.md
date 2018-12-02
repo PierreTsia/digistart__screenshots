@@ -47,10 +47,6 @@ Pour cet exercice, on va ajouter du style au formulaire.
 ### Vérification
 
 Pour passer à l'étape suivante, regarder si le formulaire a une bordure violette.
-<details>
-  <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week3-1.png" width="500" height="auto"/><br>
-</details>
 
 ## Style embarqué
 
@@ -69,11 +65,6 @@ Dans l'élément `head`
 ### Vérification
 
 Pour passer à l'étape suivante, regarder si le formulaire a une bordure en pointillée
-<details>
-  <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week3-2.png" width="500" height="auto"/><br>
-</details>
-
 
 ## Inline style
 
@@ -89,12 +80,6 @@ Dans l'élément `form` de l'entête
 ### Vérification
 
 Pour passer à l'étape suivante, regarder si la bordure du formulaire est plus grosse.
-<details>
-  <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week3-3.png" width="500" height="auto"/><br>
-</details>
-
-
 
 # Attention
 
@@ -122,12 +107,6 @@ Dans le fichier `styles.css`
 ## Vérification
 
 Pour passer à l'étape suivante, regarder si les sections sont espacées entres elles.
-<details>
-  <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week3-4.png" width="500" height="auto"/><br>
-</details>
-
-
 
 # Styliser le fond de l'entête
 
@@ -147,12 +126,6 @@ Dans le fichier `styles.css`
 ## Vérification
 
 Pour passer à l'étape suivante, regarder si il y a une image de montagne dans le header.
-<details>
-  <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week3-5.png" width="500" height="auto"/><br>
-</details>
-
-
 
 # Styliser l'entête
 
@@ -180,11 +153,6 @@ Dans le fichier `index.html`
 ## Vérification
 
 Pour passer à l'étape suivante, regarder si la couleur du texte est blanche.
-<details>
-  <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week3-5.png" width="500" height="auto"/><br>
-</details>
-
 
 # Styliser le formulaire
 
@@ -210,11 +178,6 @@ Dans le fichier `styles.css`
 ## Vérification
 
 Pour passer à l'étape suivante, regarder si le formulaire est sur fond blanc, que tous les éléments sont espacés.
-<details>
-  <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week3-6.png" width="500" height="auto"/><br>
-</details>
-
 
 # Styliser la section "étudiants"
 
@@ -230,10 +193,6 @@ Dans le fichier `styles.css`
 ## Vérification
 
 Pour passer à l'étape suivante, regarder si l'image a des bords arrondis et que le texte est en blanc.
-<details>
-  <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week3-7.png" width="500" height="auto"/><br>
-</details>
 
 # Styliser la section "bénévoles"
 
@@ -258,10 +217,6 @@ Cela peut vous aider pour unir le style des sections "étudiants" et "bénévole
 ## Vérification
 
 Pour passer à l'étape suivante, regarder si l'image a des bords arrondis et que le texte est en noir.
-<details>
-  <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week3-8.png" width="500" height="auto"/><br>
-</details>
 
 # Styliser les membres de l'équipe
 
@@ -282,11 +237,6 @@ Dans le fichier `styles.css`
 ## Vérification
 
 Pour passer à l'étape suivante, regarder si les images sont rondes et que la fonction des membres est en bleu
-<details>
-  <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week3-9.png" width="500" height="auto"/><br>
-</details>
-
 
 # Styliser le pied de page
 
@@ -300,10 +250,6 @@ Dans le fichier `styles.css`
 ## Vérification
 
 Pour passer à l'étape suivante, regarder si le pied de page a de l'espace en haut et en bas.
-<details>
-  <summary>✔ Checkpoint</summary>
-  <img src="screenshots/week3-10.png" width="500" height="auto"/><br>
-</details>
 
 # Bonus
 
